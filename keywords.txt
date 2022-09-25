@@ -1,0 +1,18 @@
+########################################################
+# Syntax Coloring Map for LoRa Library #
+########################################################
+# Class LoRa
+###################################################################
+LoRa	KEYWORD1
+
+###################################################################
+# Methods and Functions LORA
+###################################################################
+setFrequency	KEYWORD2
+setBandwidth	KEYWORD2
+setCodingRate	KEYWORD2
+setTXPower	KEYWORD2
+setSpreadingFactor	KEYWORD2
+frameCounter	KEYWORD2
+begin	KEYWORD2
+sendData	KEYWORD2
